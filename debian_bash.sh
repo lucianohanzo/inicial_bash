@@ -4,6 +4,6 @@
 apt update
 
 # Instalação de programas básicos.
-apt install -y git vim jq sudo curl resolvconf
+apt install -y sudo curl resolvconf vim jq nmap
 
 
